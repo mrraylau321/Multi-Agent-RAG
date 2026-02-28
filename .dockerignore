@@ -1,0 +1,10 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Group-24-Report.pdf
+Group-24-Video.mp4
+Code/data/*.bin

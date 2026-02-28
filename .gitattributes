@@ -1,0 +1,2 @@
+Code/data/*.bin filter=lfs diff=lfs merge=lfs -text
+Code/data/chunk_metadata_colbert.json filter=lfs diff=lfs merge=lfs -text

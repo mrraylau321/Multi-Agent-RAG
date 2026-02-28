@@ -1,0 +1,16 @@
+bm25s==0.2.14
+charset_normalizer==3.1.0
+faiss-cpu==1.8.0
+gensim==4.3.3
+gradio==6.0.1
+nltk==3.9.1
+numpy==1.26.4
+ollama==0.6.1
+openai==2.8.1
+pandas==2.3.3
+python-dotenv==1.2.1
+pytrec_eval==0.5
+requests==2.32.3
+torch==2.5.0
+tqdm==4.66.1
+transformers==4.45.2

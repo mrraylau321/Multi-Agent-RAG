@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+Code/.env
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Runtime outputs
+Code/evaluation/*.log
+Code/evaluation/*.badlines.txt
+Code/evaluation/predictions_full_pipeline*.jsonl
+
+# Oversized artifact (exceeds GitHub LFS 2GB per-file limit)
+Code/data/faiss_index_qwen3-emb.bin
+# Local auth cache
+.gh-config/
